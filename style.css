@@ -9,7 +9,7 @@
 /* ================= her-header ============== */
 
 .hero-header{
-    background: linear-gradient(rgba(20, 20, 31, 0.71),rgba(20, 20, 31, 0.71)), url(./images/main.jpg);
+    background: linear-gradient(rgba(20, 20, 31, 0.71),rgba(20, 20, 31, 0.71)), url(./images/background/main.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +61,7 @@
  }
  
  .booking{
-    background: linear-gradient(rgba(20, 20, 31, 0.71),rgba(20, 20, 31, 0.71)), url(./images/booking.jpg) center no-repeat;
+    background: linear-gradient(rgba(20, 20, 31, 0.71),rgba(20, 20, 31, 0.71)), url(./images/background/booking.jpg) center no-repeat;
     background-size: cover;
  }
 
