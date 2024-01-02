@@ -2,10 +2,17 @@
 
 ## Table of Content
 
+<<<<<<< HEAD
 - [Introduction](#Introduction)
 - [Features](#Features)
 - [Technologies Used](#Technologies-used)
 - [Getting Started](#Getting-started)
+=======
+- [Introduction](##introduction)
+- [Features](#features)
+- [Technologies Used](##technologies-used)
+- [Getting Started](#getting-started)
+>>>>>>> dfe19277f19fb5006cee44522f29e558e8fe7ce4
     -[Installations](#Installations)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
