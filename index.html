@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./images/background/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./images/background/route-solid.svg" type="image/x-icon">
     <!-- bootstrap -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css">
@@ -28,25 +28,35 @@
 
     <!-- heroic section -->
     <div class="container-fluid position-relative p-0">
-        <div class="container-fluid bg-warning mb-5 hero-header">
-            <div class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3py-lg-0">
-                <a href="" class="navbar-brand p-0">
-                    <h1 class="text-white m-0">TravelVista</h1>
-                </a>
-                <button class="navbar-toggler" type="" data-bs-toggle="collapse" data-bs-target="navbarCollapse">
-                    <span class="fa fa-bars"></span>
+        <div class="navbar navbar-expand-md navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a href="" class="navbar-brand text-white"><i class="fa fa-route"> </i> TravelVista</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navToggle"
+                    aria-controls="navToggle" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0">
-                        <a href="" class="nav-item nav-link active">Home</a>
-                        <a href="" class="nav-item nav-link">About</a>
-                        <a href="" class="nav-item nav-link">Service</a>
-                        <a href="" class="nav-item nav-link">Package</a>
-                        <a href="" class="nav-item nav-link">Contact</a>
-                    </div>
-                    <a href="" class="btn btn-warning rounded-pill p-y px-4">Register</a>
+                <div class="collapse navbar-collapse" id="navToggle">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Service</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="" class="nav-link">Contact Us</a>
+                        </li>
+                    </ul>
+                    <button class="btn btn-primary rounded-pill">Register</button>
                 </div>
             </div>
+        </div>
+        
+
+        <div class="container-fluid bg-warning mb-5 hero-header">
             <div class="container py-5">
                 <div class="row justify-content-center py-5">
                     <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
@@ -700,7 +710,8 @@
                 Reserved
 
             </div>
-            <p class=" text-white d-flex justify-content-center "><em>Designed by </em> <i class="text-warning">Vishwanth@Dev</i></p>
+            <p class=" text-white d-flex justify-content-center "><em>Designed by </em> <i
+                    class="text-warning">Vishwanth@Dev</i></p>
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
