@@ -2,9 +2,9 @@
 
 ## Table of Content
 
-- [Introduction](#introduction)
+- [Introduction](##introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](##technologies-used)
 - [Getting Started](#getting-started)
     -[Installations](#Installations)
 - [Usage](#usage)
