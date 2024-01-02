@@ -2,15 +2,15 @@
 
 ## Table of Content
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Technologies Used](#Technologies-used)
+- [Getting Started](#Getting-started)
     -[Installations](#Installations)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Acknowledgements](#Acknowledgements)
 
 ## Introduction
 
@@ -24,20 +24,21 @@ Welcome to the TravelVista Landing Page project! This project is designed as a l
 - Sections for Home, Services, About, and Contact information
 - Registration button for user sign-up
 
-## Technologies Used
+## Technologies-used
 
 - HTML5
 - CSS3
 - Bootstrap (version 5.3.2)
 - Font Awesome icons
 - (Any other technologies or libraries your project uses)
+# Getting-started
 
-### Installation
+## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/travelvista-landing-page.git
+   git clone https://github.com/Uvishwanth/TravelVista.git
 2. Open the project in your preferred text editor.
 
 
@@ -59,8 +60,9 @@ Contributions are welcome! If you have ideas for improvement, found a bug, or wa
 4. Push to the branch: git push origin feature-name.
 5. Open a pull request.
 
-## license
+## License
 
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
