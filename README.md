@@ -5,12 +5,7 @@
 - [Introduction](#Introduction)
 - [Features](#Features)
 - [Technologies Used](#Technologies-used)
-- [Getting Started](#Getting-started)
-- [Introduction](##introduction)
-- [Features](#features)
-- [Technologies Used](##technologies-used)
-- [Getting Started](#getting-started)
-    -[Installations](#Installations)
+- [Introduction](#introduction)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [License](#License)
@@ -34,8 +29,6 @@ Welcome to the TravelVista Landing Page project! This project is designed as a l
 - CSS3
 - Bootstrap (version 5.3.2)
 - Font Awesome icons
-- (Any other technologies or libraries your project uses)
-# Getting-started
 
 ## Installation
 
